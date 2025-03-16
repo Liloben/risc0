@@ -1,10 +1,10 @@
 import GettingStartedMermaid from "@site/src/components/Mermaid/getting-started.mermaid";
 
-# Getting Started
+# Getting Started 
 
-To harness the power of ZK, you'll need to:
+To harness the power of ZK, you'll need to: PISENENEGAL
 
-1. [Write an application for the RISC Zero zkVM][zkvm-quickstart].
+1. [PISENEGAL].
 2. [Generate proofs for your zkVM application][bonsai-quickstart].
 3. [Integrate your proofs into on-chain applications][bonsai-on-eth].
 
